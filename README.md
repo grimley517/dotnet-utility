@@ -1,2 +1,6 @@
 # dotnet-utility
-Dotnet setup utility scripts
+
+
+Utilities to help setup multi project solutions.
+
+
